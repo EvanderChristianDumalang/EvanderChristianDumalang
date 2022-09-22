@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EvanderChristianDumalang
-- 👀 I’m interested in Computer Vision, Mobile Programming, Flutter
-- 🌱 I’m currently learning Python, Artificial intelligence
-- 💞️ I’m looking to collaborate on Mobile Project, AI Project.
+- 👋 Hi, I’m Evander Christian Dumalang
+- 👀 I’m interested in Mobile Programming, Data Science, and Computer Vision
+- 🌱 I’m currently learning Data Science, 
+- 💞️ I’m looking to collaborate on Mobile Project and Computer Vision Project.
 - 📫 How to reach me Evanderchristiandumalang@gmail.com
 
 <!---
