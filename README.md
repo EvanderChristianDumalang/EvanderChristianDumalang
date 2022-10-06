@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=EvanderChristianDumalang&style=flat-square)
+
 - 👋 Hi, I’m Evander Christian Dumalang
 - 👀 I’m interested in Mobile Programming, Data Science, and Computer Vision
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
