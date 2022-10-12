@@ -30,8 +30,8 @@
 <hr>
 <h2 align="center">Github Statistics</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=EvanderChristianDumalang&show_icons=true&line_height=21&theme=gotham" alt="my github stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderChristianDumalang&layout=compact&theme=gotham" alt="languages" height="150"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvanderChristianDumalang&layout=compact&theme=gotham" alt="sxmeer-ahmed" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderChristianDumalang&layout=compact&theme=gotham" alt="languages" height="150"/>
 </p>
 </hr>
 
